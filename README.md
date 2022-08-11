@@ -1,5 +1,5 @@
 <h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge" alt="jwejian :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{rajeshkannanoffl}/count.svg" alt="rajeshkannanoffl :: Visitor's Count" /></p>
 <br/>
 
 
