@@ -2,6 +2,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{rajeshkannanoffl}/count.svg" alt="rajeshkannanoffl :: Visitor's Count" /></p>
 <br/>
 
+<img src="https://raw.githubusercontent.com/rajeshkannanoffl/rajeshkannanoffl/main/img/cover-image.png"/>
 
 - 👋 Hi, I’m @rajeshkannanoffl
 - 👀 I’m interested in ...
