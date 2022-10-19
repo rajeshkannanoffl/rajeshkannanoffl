@@ -11,7 +11,7 @@
 ## Holopin Profile Badges
 [![@rajeshkannanoffl's Holopin board](https://holopin.me/rajeshkannanoffl)](https://holopin.io/@rajeshkannanoffl)
 
-<h3 align="left">Connect with me:</h3>
+## Connect With Me
 
 <div align="left">
   <a href="https://fb.com/rajeshkannanoffl" target="_blank">
