@@ -1,7 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Rajesh Kannan M </h1>
 <h3 align="center"> A passionate developer from India </h3>
 
-<p>
 <div align="left">
   <a href="https://twitter.com/rajeshkoffl" target="blank">
     <img align="left" src="https://img.shields.io/twitter/follow/rajeshkoffl?logo=twitter&style=for-the-badge" alt="rajeshkoffl"/>
@@ -11,9 +10,7 @@
     <img align="right" src="https://profile-counter.glitch.me/r/count.svg?"/>
   </a>
 </div>
-
 <br> </br>
-
 ## Holopin Profile Badges
 [![@rajeshkannanoffl's Holopin board](https://holopin.me/rajeshkannanoffl)](https://holopin.io/@rajeshkannanoffl)
 
