@@ -1,9 +1,15 @@
 <h1 align="center"> Hi 👋, I'm Rajesh Kannan M </h1>
 <h3 align="center"> A passionate developer from India </h3>
 
-<p> <align="left"> <a href="https://twitter.com/rajeshkoffl" target="blank"><img src="https://img.shields.io/twitter/follow/rajeshkoffl?logo=twitter&style=for-the-badge" alt="rajeshkoffl" /></a>
-  
-<div align="center"> <h3> You are a visitor 👀 </h3> <img src="https://profile-counter.glitch.me/r/count.svg?"/> </div> </p>
+<div align="left">
+  <a href="https://twitter.com/rajeshkoffl" target="blank">
+    <img src="https://img.shields.io/twitter/follow/rajeshkoffl?logo=twitter&style=for-the-badge" alt="rajeshkoffl"/>
+  </a>
+  <a> 
+    <h3> You are a visitor 👀 </h3>
+    <img src="https://profile-counter.glitch.me/r/count.svg?"/>
+  </a>
+</div>
 
 ## Holopin Profile Badges
 [![@rajeshkannanoffl's Holopin board](https://holopin.me/rajeshkannanoffl)](https://holopin.io/@rajeshkannanoffl)
@@ -66,7 +72,6 @@
   <a href="https://www.buymeacoffee.com/rajeshkannanoffl">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rajeshkannanoffl" />
   </a>
-  $~~~~$
   <a href="https://www.paypal.com/rajeshkannanoffl"> <img align="left" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c530.png" height="50" width="210" alt="rajeshkannanoffl" />
   </a>
 </div>
