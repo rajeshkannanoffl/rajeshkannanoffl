@@ -81,9 +81,11 @@
     <img align="left" src="https://raw.githubusercontent.com/rajeshkannanoffl/rajeshkannanoffl/main/images/png/paypal.png" height="60" width="210" alt="paypal" />
   </a>
 </div>
+
+<br> </br>
 <br> </br>
 
 <hr> </hr>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkannanoffl&" alt="rajeshkannanoffl"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkannanoffl&" alt="streakstats"/>
 </div>
