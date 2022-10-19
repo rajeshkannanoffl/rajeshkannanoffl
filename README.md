@@ -81,8 +81,8 @@
 </p>
 <br></br>
 
-<td>
+<hr>
   <div>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkannanoffl&" alt="rajeshkannanoffl"/>
   </div>
-</td>  
+</hr>  
