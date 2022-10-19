@@ -1,10 +1,10 @@
 <h1 align="center"> Hi 👋, I'm Rajesh Kannan M </h1>
-<h3 align="center"> A passionate developer from <img src="./images/icons/india.png" width="20" /> <b> Tamil Nadu, India </b>. </h3>
+<h3 align="center"> A passionate developer from <img src="./assets/icons/india.png" width=23" /> Tamil Nadu, India. </h3>
 
 <br></br>
 
-<div align="left"> <a href="https://twitter.com/rajeshkoffl" target="blank">
-  <img align="left" src="https://img.shields.io/twitter/follow/rajeshkoffl?logo=twitter&style=for-the-badge" alt="rajeshkoffl"/> </a>
+<div align="left"> <a href="https://twitter.com/rajeshkoffl" target="_blank">
+  <img align="left" src="https://img.shields.io/twitter/follow/rajeshkoffl?logo=twitter&style=for-the-badge" alt="twitter-follower-badge"/> </a>
   <a> <h3 align="right"> You are a visitor 👀 </h3>
     <img align="right" src="https://profile-counter.glitch.me/r/count.svg?"/> </a>
 </div>
@@ -18,17 +18,17 @@
 ## Connect With Me
 
 <div align="left">
-  <a href="https://facebook.com/rajeshkannanoffl" target="_blank"> <img src="./images/icons/facebook.svg" width="52" height="40" alt="facebook-logo"/> </a>
+  <a href="https://facebook.com/rajeshkannanoffl" target="_blank"> <img src="./images/png/gmail.png" width="52" height="40" alt="facebook-logo"/> </a>
   <a href="https://instagram.com/rajeshkannanoffl" target="_blank"> <img src="./images/icons/instagram.svg" width="52" height="40" alt="instagram-logo"/> </a>
-  <a href="https://twitter.com/rajeshkoffl" target="_blank"> <img src="./images/png/twitter.png" width="40" height="40" alt="twitter-logo"/> </a>
-  <a href="https://linkedin.com/in/rajeshkannanoffl" target="_blank"> <img src="./images/png/linkedin.png" width="40" height="40" alt="linkedin-logo"/> </a>
-  <a href="https://telegram.dog/rajeshkannanoffl" target="_blank"> <img src="./images/png/telegram.png" width="40" height="40" alt="telegram-logo"/> </a>
-  <a href="mailto:rajeshkannan.offl@gmail.com" target="_blank"> <img src="./images/png/gmail.png" width="40" height="40" alt="gmail-logo"/> </a>
-  <a href="mailto:rajeshkannanoffl@outlook.com" target="_blank"> <img src="./images/png/outlook.png" width="40" height="40" alt="microsoft-outlook-logo"/> </a>
-  <a href="https://stackoverflow.com/users/19619643" target="_blank"> <img src="./images/png/stack-overflow.png" width="40" height="40" alt="stackoverflow-logo"/> </a>
-  <a href="https://medium.com/@rajeshkannanoffl" target="_blank"> <img src="./images/png/medium.png" width="40" height="40" alt="medium-logo"/> </a>
-  <a href="https://dev.to/rajeshkannanoffl" target="_blank"> <img src="./images/png/dev.png" width="40" height="40" alt="devto-logo"/> </a>
-  <a href="https://linktr.ee/rajeshkannanoffl" target="_blank"> <img src="./images/png/linktree.png" width="40" height="40" alt="linktree-logo"/> </a>
+  <a href="https://twitter.com/rajeshkoffl" target="_blank"> <img src="./images/png/gmail.png" width="52" height="40" alt="twitter-logo"/> </a>
+  <a href="https://linkedin.com/in/rajeshkannanoffl" target="_blank"> <img src="./images/png/linkedin.png" width="52" height="40" alt="linkedin-logo"/> </a>
+  <a href="https://telegram.dog/rajeshkannanoffl" target="_blank"> <img src="./images/png/telegram.png" width="52" height="40" alt="telegram-logo"/> </a>
+  <a href="mailto:rajeshkannan.offl@gmail.com" target="_blank"> <img src="./images/png/gmail.png" width="52" height="40" alt="gmail-logo"/> </a>
+  <a href="mailto:rajeshkannanoffl@outlook.com" target="_blank"> <img src="./images/png/gmail.png" width="52" height="40" alt="microsoft-outlook-logo"/> </a>
+  <a href="https://stackoverflow.com/users/19619643" target="_blank"> <img src="./images/png/stack-overflow.png" width="52" height="40" alt="stackoverflow-logo"/> </a>
+  <a href="https://medium.com/@rajeshkannanoffl" target="_blank"> <img src="./images/png/medium.png" width="52" height="40" alt="medium-logo"/> </a>
+  <a href="https://dev.to/rajeshkannanoffl" target="_blank"> <img src="./images/png/dev.png" width="52" height="40" alt="devto-logo"/> </a>
+  <a href="https://linktr.ee/rajeshkannanoffl" target="_blank"> <img src="./images/png/linktree.png" width="52" height="40" alt="linktree-logo"/> </a>
 </div>
 
 ## I Code With
@@ -59,8 +59,8 @@
 ## Support Me
 
 <div align="left">
-  <a href="https://www.buymeacoffee.com/rajeshkannanm"> <img align="left" src="./images/icons/buy-me-a-coffee.png" height="60" width="210" alt="buymeacofee-logo"/> </a>
-  <a href="https://www.paypal.me/rajeshkannanoffl"> <img align="left" src="./images/icons/paypal.png" height="60" width="210" alt="paypal-logo"/> </a>
+  <a href="https://www.buymeacoffee.com/rajeshkannanm"> <img align="left" src="./assets/icons/buy-me-a-coffee.png" height="60" width="210" alt="buymeacofee-logo"/> </a>
+  <a href="https://www.paypal.me/rajeshkannanoffl"> <img align="left" src="./assets/icons/paypal.png" height="60" width="210" alt="paypal-logo"/> </a>
 </div>
 
 <br> </br> <br> </br>
