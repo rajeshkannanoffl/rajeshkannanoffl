@@ -67,13 +67,11 @@
 </div>
 
 ## Support Me
-<div align="left"> <a href="https://www.buymeacoffee.com/rajeshkannanm">
-  <img align="left" src="./images/png/buy-me-a-coffee.png" height="60" width="210" alt="buymeacofee-logo"/> </a>
-  <a href="https://www.paypal.com/rajeshkannanoffl">
-    <img align="left" src="./images/png/paypal.png" height="60" width="210" alt="paypal-logo"/> </a>
+<div align="left">
+  <a href="https://www.buymeacoffee.com/rajeshkannanm"> <img align="left" src="./images/png/buy-me-a-coffee.png" height="60" width="210" alt="buymeacofee-logo"/> </a>
+  <a href="https://www.paypal.com/rajeshkannanoffl"> <img align="left" src="./images/png/paypal.png" height="60" width="210" alt="paypal-logo"/> </a>
 </div>
 
-<br> </br>
+<br> </br> <br> </br>
 
-<hr> </hr>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkannanoffl&" alt="streak-stats"/> </div>
+<hr> </hr> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkannanoffl&" alt="streak-stats"/> </div>
