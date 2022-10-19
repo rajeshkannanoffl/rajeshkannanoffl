@@ -18,17 +18,17 @@
 ## Connect With Me
 
 <div align="left">
-  <a href="https://facebook.com/rajeshkannanoffl" target="_blank"> <img src="./images/png/gmail.png" width="52" height="40" alt="facebook-logo"/> </a>
-  <a href="https://instagram.com/rajeshkannanoffl" target="_blank"> <img src="./images/icons/instagram.svg" width="52" height="40" alt="instagram-logo"/> </a>
-  <a href="https://twitter.com/rajeshkoffl" target="_blank"> <img src="./images/png/gmail.png" width="52" height="40" alt="twitter-logo"/> </a>
-  <a href="https://linkedin.com/in/rajeshkannanoffl" target="_blank"> <img src="./images/png/linkedin.png" width="52" height="40" alt="linkedin-logo"/> </a>
-  <a href="https://telegram.dog/rajeshkannanoffl" target="_blank"> <img src="./images/png/telegram.png" width="52" height="40" alt="telegram-logo"/> </a>
+  <a href="https://facebook.com/rajeshkannanoffl" target="_blank"> <img src="./assets/icons/facebook.svg" width="52" height="40" alt="facebook-logo"/> </a>
+  <a href="https://instagram.com/rajeshkannanoffl" target="_blank"> <img src="./assets/icons/instagram.svg" width="52" height="40" alt="instagram-logo"/> </a>
+  <a href="https://twitter.com/rajeshkoffl" target="_blank"> <img src="./assets/icons/twitter.svg" width="52" height="40" alt="twitter-logo"/> </a>
+  <a href="https://linkedin.com/in/rajeshkannanoffl" target="_blank"> <img src="./assets/icons/linked-in-alt.svg" width="52" height="40" alt="linkedin-logo"/> </a>
+  <a href="https://telegram.dog/rajeshkannanoffl" target="_blank"> <img src="./assets/icons/telegram.svg" width="52" height="40" alt="telegram-logo"/> </a>
   <a href="mailto:rajeshkannan.offl@gmail.com" target="_blank"> <img src="./images/png/gmail.png" width="52" height="40" alt="gmail-logo"/> </a>
   <a href="mailto:rajeshkannanoffl@outlook.com" target="_blank"> <img src="./images/png/gmail.png" width="52" height="40" alt="microsoft-outlook-logo"/> </a>
-  <a href="https://stackoverflow.com/users/19619643" target="_blank"> <img src="./images/png/stack-overflow.png" width="52" height="40" alt="stackoverflow-logo"/> </a>
-  <a href="https://medium.com/@rajeshkannanoffl" target="_blank"> <img src="./images/png/medium.png" width="52" height="40" alt="medium-logo"/> </a>
-  <a href="https://dev.to/rajeshkannanoffl" target="_blank"> <img src="./images/png/dev.png" width="52" height="40" alt="devto-logo"/> </a>
-  <a href="https://linktr.ee/rajeshkannanoffl" target="_blank"> <img src="./images/png/linktree.png" width="52" height="40" alt="linktree-logo"/> </a>
+  <a href="https://stackoverflow.com/users/19619643" target="_blank"> <img src="./assets/icons/stack-overflow.svg" width="52" height="40" alt="stackoverflow-logo"/> </a>
+  <a href="https://medium.com/@rajeshkannanoffl" target="_blank"> <img src="./assets/icons/medium.svg" width="52" height="40" alt="medium-logo"/> </a>
+  <a href="https://dev.to/rajeshkannanoffl" target="_blank"> <img src="./assets/icons/devto.svg" width="52" height="40" alt="devto-logo"/> </a>
+  <a href="https://linktr.ee/rajeshkannanoffl" target="_blank"> <img src="./assets/icons/linktree.svg" width="52" height="40" alt="linktree-logo"/> </a>
 </div>
 
 ## I Code With
