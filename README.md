@@ -39,7 +39,7 @@
   <a href="https://www.hackerrank.com/rajeshkannanoffl" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hacker-rank-logo"/> </a>
   <a href="https://linktr.ee/rajeshkannanoffl" target="_blank">
-    <img src="https://raw.githubusercontent.com/rajeshkannanoffl/rajeshkannanoffl/main/images/png/linktree.png" width="52" height="40" alt="linktree-logo"/> </a>
+    <img src="https://raw.githubusercontent.com/rajeshkannanoffl/rajeshkannanoffl/main/images/png/linktree.png" alt="linktree-logo"/> </a>
 </div>
 
 ## Languages and Tools
