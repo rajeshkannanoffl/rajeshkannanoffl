@@ -3,7 +3,7 @@
 
 <p> <align="left"> <a href="https://twitter.com/rajeshkoffl" target="blank"><img src="https://img.shields.io/twitter/follow/rajeshkoffl?logo=twitter&style=for-the-badge" alt="rajeshkoffl" /></a>
   
-<div align="right"> <h3> You are a visitor 👀 </h3> <img src="https://profile-counter.glitch.me/r/count.svg?"/> </div> </p>
+<div align="center"> <h3> You are a visitor 👀 </h3> <img src="https://profile-counter.glitch.me/r/count.svg?"/> </div> </p>
 
 ## Holopin Profile Badges
 [![@rajeshkannanoffl's Holopin board](https://holopin.me/rajeshkannanoffl)](https://holopin.io/@rajeshkannanoffl)
@@ -66,3 +66,4 @@
 
 ## Support Me
 <p><a href="https://www.buymeacoffee.com/rajeshkannanoffl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rajeshkannanoffl" /></a></p><br><br>
+<p><a href="https://www.paypal.com/rajeshkannanoffl"> <img align="left" src="https://e7.pngegg.com/pngimages/848/507/png-clipart-logo-brand-payment-product-design-paypal-text-payment.png" height="50" width="210" alt="rajeshkannanoffl" /></a></p><br><br>
