@@ -3,9 +3,7 @@
 
 <div align="left">
   <a href="https://twitter.com/rajeshkoffl" target="blank">
-    <br>
     <img align="left" src="https://img.shields.io/twitter/follow/rajeshkoffl?logo=twitter&style=for-the-badge" alt="rajeshkoffl"/>
-    </br>
   </a>
   <a>
     <h3 align="right"> You are a visitor 👀 </h3>
