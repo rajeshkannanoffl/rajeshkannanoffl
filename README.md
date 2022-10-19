@@ -61,4 +61,4 @@
 
 <br> </br> <br> </br>
 
-<div align="center"> <a img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkannanoffl&" alt="streak-stats"/> </a> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkannanoffl&" alt="streak-stats"/> </div>
