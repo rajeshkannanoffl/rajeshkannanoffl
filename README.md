@@ -13,8 +13,8 @@
   </a>
 </div>
 
-<hr> </hr>
 <br> </br>
+<hr> </hr>
 
 ## Holopin Profile Badges
 [![@rajeshkannanoffl's Holopin board](https://holopin.me/rajeshkannanoffl)](https://holopin.io/@rajeshkannanoffl)
