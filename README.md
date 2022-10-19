@@ -16,33 +16,20 @@
 
 ## Connect With Me
 <div align="left">
-  <a href="https://facebook.com/rajeshkannanoffl" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="52" height="40" alt="facebook-logo"/> </a>
-  <a href="https://instagram.com/rajeshkannanoffl" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram-logo"/> </a>
-  <a href="https://twitter.com/rajeshkoffl" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="52" height="40" alt="twitter-logo"/> </a>
-  <a href="https://linkedin.com/in/rajeshkannanoffl" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="linkedin-logo"/> </a>
-  <a href="https://telegram.dog/rajeshkannanoffl" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram-logo"/> </a>
-  <a href="mailto:rajeshkannan.offl@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail-logo"/> </a>
-  <a href="mailto:rajeshkannanoffl@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook-logo"/> </a>
-  <a href="https://stackoverflow.com/users/19619643/rajesh-kannan-m" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow-logo"/> </a>
-  <a href="https://medium.com/@rajeshkannanoffl" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium-logo"/> </a>
-  <a href="https://dev.to/rajeshkannanoffl" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto-logo"/> </a>
-  <a href="https://www.hackerrank.com/rajeshkannanoffl" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hacker-rank-logo"/> </a>
-  <a href="https://linktr.ee/rajeshkannanoffl" target="_blank">
-    <img src="https://raw.githubusercontent.com/rajeshkannanoffl/rajeshkannanoffl/main/images/png/linktree.png" width="40" height="40" alt="linktree-logo"/> </a>
+  <a href="https://facebook.com/rajeshkannanoffl" target="_blank"> <img src="./images/png/facebook.png" width="40" height="40" alt="facebook-logo"/> </a>
+  <a href="https://instagram.com/rajeshkannanoffl" target="_blank"> <img src="./images/png/instagram.png" width="40" height="40" alt="instagram-logo"/> </a>
+  <a href="https://twitter.com/rajeshkoffl" target="_blank"> <img src="./images/png/twitter.png" width="40" height="40" alt="twitter-logo"/> </a>
+  <a href="https://linkedin.com/in/rajeshkannanoffl" target="_blank"> <img src="./images/png/linkedin.png" width="40" height="40" alt="linkedin-logo"/> </a>
+  <a href="https://telegram.dog/rajeshkannanoffl" target="_blank"> <img src="./images/png/telegram.png" width="40" height="40" alt="telegram-logo"/> </a>
+  <a href="mailto:rajeshkannan.offl@gmail.com" target="_blank"> <img src="./images/png/gmail.png" width="40" height="40" alt="gmail-logo"/> </a>
+  <a href="mailto:rajeshkannanoffl@outlook.com" target="_blank"> <img src="./images/png/outlook.png" width="40" height="40" alt="microsoft-outlook-logo"/> </a>
+  <a href="https://stackoverflow.com/users/19619643" target="_blank"> <img src="./images/png/stackoverflow.png" width="40" height="40" alt="stackoverflow-logo"/> </a>
+  <a href="https://medium.com/@rajeshkannanoffl" target="_blank"> <img src="./images/png/medium.png" width="40" height="40" alt="medium-logo"/> </a>
+  <a href="https://dev.to/rajeshkannanoffl" target="_blank"> <img src="./images/png/dev.png" width="40" height="40" alt="devto-logo"/> </a>
+  <a href="https://linktr.ee/rajeshkannanoffl" target="_blank"> <img src="./images/png/linktree.png" width="40" height="40" alt="linktree-logo"/> </a>
 </div>
 
-## Languages and Tools
+## I Code With
 <div align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c-logo"/> </a>
