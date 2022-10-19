@@ -13,6 +13,7 @@
   </a>
 </div>
 
+<hr> </hr>
 <br> </br>
 
 ## Holopin Profile Badges
