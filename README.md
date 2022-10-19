@@ -69,5 +69,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
 </div>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rajeshkannanoffl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rajeshkannanoffl" /></a></p><br><br>
+<h3 align="left">Support:
+<p><a href="https://www.buymeacoffee.com/rajeshkannanoffl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rajeshkannanoffl" /></a></p><br><br></h3>
