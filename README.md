@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Rajesh Kannan M </h1>
-<h3 align="center"> A passionate developer from <img src="./images/png/india.png" width="18" /> <b> Tamil Nady, India </b>. </h3>
+<h3 align="center"> A passionate developer from <img src="./images/png/india.png" width="20" /> <b> Tamil Nadu, India </b>. </h3>
 
 <br></br>
 
