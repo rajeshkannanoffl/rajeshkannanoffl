@@ -68,8 +68,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
 </div>
-<div>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkannanoffl&" alt="rajeshkannanoffl"/>
+<hr></hr>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkannanoffl&" alt="rajeshkannanoffl"/>
 </div>
 
 ## Support Me
