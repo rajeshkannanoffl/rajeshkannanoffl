@@ -1,6 +1,8 @@
 <h1 align="center"> Hi 👋, I'm Rajesh Kannan M </h1>
 <h3 align="center"> A passionate developer from India </h3>
 
+<br> </br>
+
 <div align="left">
   <a href="https://twitter.com/rajeshkoffl" target="blank">
     <img align="left" src="https://img.shields.io/twitter/follow/rajeshkoffl?logo=twitter&style=for-the-badge" alt="rajeshkoffl"/>
