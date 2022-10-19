@@ -7,7 +7,7 @@
 [![@rajeshkannanoffl's Holopin board](https://holopin.me/rajeshkannanoffl)](https://holopin.io/@rajeshkannanoffl)
 
 <div align="center">
-  <h3 You are visitor /h3>
+  <h3> You are visitor </h3>
   <img src="https://profile-counter.glitch.me/r/count.svg?"  />
 </div>
 
