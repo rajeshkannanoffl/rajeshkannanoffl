@@ -70,6 +70,7 @@
 </div>
 
 ## Support Me
+<p>
 <div align="left">
   <a href="https://www.buymeacoffee.com/rajeshkannanoffl">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rajeshkannanoffl" />
@@ -77,6 +78,8 @@
   <a href="https://www.paypal.com/rajeshkannanoffl"> <img align="left" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c530.png" height="50" width="210" alt="rajeshkannanoffl" />
   </a>
 </div>
+</p>
+<br><br>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkannanoffl&" alt="rajeshkannanoffl"/>
