@@ -23,7 +23,7 @@
   <a href="https://telegram.dog/rajeshkannanoffl" target="_blank"> <img src="./images/png/telegram.png" width="40" height="40" alt="telegram-logo"/> </a>
   <a href="mailto:rajeshkannan.offl@gmail.com" target="_blank"> <img src="./images/png/gmail.png" width="40" height="40" alt="gmail-logo"/> </a>
   <a href="mailto:rajeshkannanoffl@outlook.com" target="_blank"> <img src="./images/png/outlook.png" width="40" height="40" alt="microsoft-outlook-logo"/> </a>
-  <a href="https://stackoverflow.com/users/19619643" target="_blank"> <img src="./images/png/stackoverflow.png" width="40" height="40" alt="stackoverflow-logo"/> </a>
+  <a href="https://stackoverflow.com/users/19619643" target="_blank"> <img src="./images/png/stack-overflow.png" width="40" height="40" alt="stackoverflow-logo"/> </a>
   <a href="https://medium.com/@rajeshkannanoffl" target="_blank"> <img src="./images/png/medium.png" width="40" height="40" alt="medium-logo"/> </a>
   <a href="https://dev.to/rajeshkannanoffl" target="_blank"> <img src="./images/png/dev.png" width="40" height="40" alt="devto-logo"/> </a>
   <a href="https://linktr.ee/rajeshkannanoffl" target="_blank"> <img src="./images/png/linktree.png" width="40" height="40" alt="linktree-logo"/> </a>
