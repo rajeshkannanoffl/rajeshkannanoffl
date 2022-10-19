@@ -58,6 +58,7 @@
   </a>
 </div>
 
+## Languages and Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
@@ -78,6 +79,7 @@
   <a href="https://www.paypal.com/rajeshkannanoffl"> <img align="left" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c530.png" height="50" width="210" alt="rajeshkannanoffl" />
   </a>
 </div>
+<br></br>
 
 <hr></hr>
 <div align="center">
