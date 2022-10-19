@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Rajesh Kannan M </h1>
-<h3 align="center"> A passionate developer from India </h3>
+<h3 align="center"> A passionate developer from <img src="./images/png/india.png" width="18" /> <b> Tamil Nady, India </b>. </h3>
 
 <br></br>
 
@@ -68,8 +68,8 @@
 
 ## Support Me
 <div align="left">
-  <a href="https://www.buymeacoffee.com/rajeshkannanm"> <img align="left" src="./images/png/buy-me-a-coffee.png" height="60" width="210" alt="buymeacoffee-logo"/> </a>
-  <a href="https://www.paypal.me/rajeshkannanoffl"> <img align="left" src="./images/png/paypal.png" height="60" width="210" alt="paypal-logo"/> </a>
+  <a href="https://www.buymeacoffee.com/rajeshkannanm"> <img align="left" src="./images/png/buy-me-a-coffee.png" height="60" width="210" alt="buymeacofee-logo"/> </a>
+  <a href="https://www.paypal.com/rajeshkannanoffl"> <img align="left" src="./images/png/paypal.png" height="60" width="210" alt="paypal-logo"/> </a>
 </div>
 
 <br> </br> <br> </br>
