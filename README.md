@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Rajesh Kannan M </h1>
 <h3 align="center"> A passionate developer from India </h3>
 
-<p> <p align="left"> <a href="https://twitter.com/rajeshkoffl" target="blank"><img src="https://img.shields.io/twitter/follow/rajeshkoffl?logo=twitter&style=for-the-badge" alt="rajeshkoffl" /></a> </p>
+<p> <align="left"> <a href="https://twitter.com/rajeshkoffl" target="blank"><img src="https://img.shields.io/twitter/follow/rajeshkoffl?logo=twitter&style=for-the-badge" alt="rajeshkoffl" /></a>
   
 <div align="right">
   <h3> You are a visitor 👀 </h3>
