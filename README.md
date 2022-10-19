@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajeshkoffl" target="blank"><img src="https://img.shields.io/twitter/follow/rajeshkoffl?logo=twitter&style=for-the-badge" alt="rajeshkoffl" /></a> </p>
 
-<div align="center">
+<div align="right">
   <h3> You are a visitor 👀 </h3>
   <img src="https://profile-counter.glitch.me/r/count.svg?"  />
 </div>
@@ -12,7 +12,6 @@
 [![@rajeshkannanoffl's Holopin board](https://holopin.me/rajeshkannanoffl)](https://holopin.io/@rajeshkannanoffl)
 
 ## Connect With Me
-
 <div align="left">
   <a href="https://fb.com/rajeshkannanoffl" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
