@@ -70,10 +70,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
 </div>
-<hr></hr>
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkannanoffl&" alt="rajeshkannanoffl"/>
-</div>
 
 ## Support Me
 <div align="left">
@@ -82,4 +78,9 @@
   </a>
   <a href="https://www.paypal.com/rajeshkannanoffl"> <img align="left" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c530.png" height="50" width="210" alt="rajeshkannanoffl" />
   </a>
+</div>
+
+<hr></hr>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkannanoffl&" alt="rajeshkannanoffl"/>
 </div>
