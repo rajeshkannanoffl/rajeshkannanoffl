@@ -5,8 +5,8 @@
   <a href="https://twitter.com/rajeshkoffl" target="blank">
     <img src="https://img.shields.io/twitter/follow/rajeshkoffl?logo=twitter&style=for-the-badge" alt="rajeshkoffl"/>
   </a>
-  <a> 
-    <h3 align="right"> You are a visitor 👀 </h3>
+  <a align="right">
+    <h3> You are a visitor 👀 </h3>
     <img src="https://profile-counter.glitch.me/r/count.svg?"/>
   </a>
 </div>
