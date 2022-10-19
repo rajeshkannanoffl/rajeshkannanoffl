@@ -15,7 +15,7 @@
 
 <br> </br>
 
-## Holopin Profile Badges
+## Holopin Badge Board
 [![@rajeshkannanoffl's Holopin board](https://holopin.me/rajeshkannanoffl)](https://holopin.io/@rajeshkannanoffl)
 
 ## Connect With Me
