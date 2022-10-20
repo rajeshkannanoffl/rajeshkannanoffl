@@ -10,7 +10,6 @@
 </div>
 
 <br> </br>
-<br></br>
 
 ## Holopin Badge Board
 
