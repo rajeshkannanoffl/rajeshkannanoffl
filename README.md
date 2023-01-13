@@ -1,6 +1,10 @@
 <h1 align="center"> Hi 👋, I'm Rajesh Kannan M </h1>
 <h3 align="center"> A passionate developer from <img src="./assets/icons/india.png" width=23" /> Tamil Nadu, India. </h3>
 
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=rajeshkannanoffl&data=followers,repositories,stars,commits&theme=nautilus" alt="rajeshkannanoffl" >
+</p>
+
 <br></br>
 
 <div align="left"> <a href="https://twitter.com/rajeshkoffl" target="_blank">
@@ -10,14 +14,6 @@
 </div>
 
 <br> </br>
-
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=rajeshkannanoffl&data=followers,repositories,stars,commits&theme=nautilus" alt="rajeshkannanoffl" >
-</p>
-
-## Holopin Badge Board
-
-[![@rajeshkannanoffl's Holopin board](https://holopin.me/rajeshkannanoffl)](https://holopin.io/@rajeshkannanoffl)
 
 ## Connect With Me
 
@@ -56,6 +52,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter-logo"/> </a>
 </div>
 
+## Holopin Badge Board
+
+[![@rajeshkannanoffl's Holopin board](https://holopin.me/rajeshkannanoffl)](https://holopin.io/@rajeshkannanoffl)
+
 ## Support Me
 
 <div align="left">
@@ -65,4 +65,4 @@
 
 <br> </br> <br> </br>
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkannanoffl&" alt="streak-stats"/> </div>
+[//]: # (<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkannanoffl&" alt="streak-stats"/> </div>)
