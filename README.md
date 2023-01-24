@@ -5,11 +5,7 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=rajeshkannanoffl&data=followers,repositories,stars,commits&theme=nautilus" alt="rajeshkannanoffl" >
 </p>
 
-[//]: # (<br></br>)
-
-<div align="left"> <a href="https://twitter.com/rajeshkoffl" target="_blank">
-  <img align="left" src="https://img.shields.io/twitter/follow/rajeshkoffl?logo=twitter&style=for-the-badge" alt="twitter-follower-badge"/> </a>
-  <a> <h3 align="right"> You are a visitor 👀 </h3>
+<div align="left"> <a> <h3 align="right"> You are a visitor 👀 </h3>
     <img align="right" src="https://profile-counter.glitch.me/r/count.svg?"/> </a>
 </div>
 
