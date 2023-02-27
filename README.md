@@ -16,7 +16,7 @@
 <div align="left">
   <a href="https://facebook.com/rajeshkannanoffl" target="_blank"> <img src="./assets/icons/facebook.svg" width="52" height="40" alt="facebook-logo"/> </a>
   <a href="https://instagram.com/rajeshkannanoffl" target="_blank"> <img src="./assets/icons/instagram.svg" width="52" height="40" alt="instagram-logo"/> </a>
-  <a href="https://twitter.com/rajeshkoffl" target="_blank"> <img src="./assets/icons/twitter.svg" width="52" height="40" alt="twitter-logo"/> </a>
+  <a href="https://twitter.com/rajeshkannanm_" target="_blank"> <img src="./assets/icons/twitter.svg" width="52" height="40" alt="twitter-logo"/> </a>
   <a href="https://linkedin.com/in/rajeshkannanoffl" target="_blank"> <img src="./assets/icons/linked-in-alt.svg" width="52" height="40" alt="linkedin-logo"/> </a>
   <a href="https://stackoverflow.com/users/19619643" target="_blank"> <img src="./assets/icons/stack-overflow.svg" width="52" height="40" alt="stackoverflow-logo"/> </a>
 </div>
