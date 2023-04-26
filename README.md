@@ -57,7 +57,7 @@
 ## Support Me
 
 <div align="left">
-  <a href="https://www.buymeacoffee.com/rajeshkannanm"> <img align="left" src="./assets/icons/buy-me-a-coffee.png" height="60" width="210" alt="buymeacofee-logo"/> </a>
+  <a href="https://www.buymeacoffee.com/rajeshkannanm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="210" alt="buymeacofee-logo"/> </a>
   <a href="https://www.paypal.me/rajeshkannanoffl"> <img align="left" src="./assets/icons/paypal.png" height="60" width="210" alt="paypal-logo"/> </a>
 </div>
 
