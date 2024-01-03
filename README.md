@@ -1,13 +1,14 @@
+<p align="center">
+  <img src="https://camo.githubusercontent.com/df09c46a13d92c4eb9dee0d852474db6d86d29490340078abec2972ee592145d/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f77696e7465722d69732d636f6d696e672e737667"> 
+</p>
+
 <h1 align="center"> Hi 👋, I'm Rajesh Kannan M </h1>
 <h3 align="center"> A passionate developer from <img src="./assets/icons/india.png" width=23" /> Tamil Nadu, India. </h3>
 
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=rajeshkannanoffl&data=followers,repositories,stars,commits&theme=nautilus" alt="rajeshkannanoffl" >
-</p>
+<div align = "right"> <img src="https://img.shields.io/github/stars/rajeshkannanoffl?label=Stars&style=social alt="stars"/> </div>
+<div align = "right"> <img src="https://img.shields.io/github/followers/rajeshkannanoffl?label=Followers&style=social alt="followers"/> </div>
 
-<div align="left"> <a> <h3 align="right"> You are a visitor 👀 </h3>
-    <img align="right" src="https://profile-counter.glitch.me/r/count.svg?"/> </a>
-</div>
+<div align = "right"> <img src="https://komarev.com/ghpvc/?username=rajeshkannanoffl&color=blue" alt="watching_count"/> </div>
 
 <br> </br>
 
@@ -64,3 +65,9 @@
 <br> </br> <br> </br>
 
 [//]: # (<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkannanoffl&" alt="streak-stats"/> </div>)
+
+##
+
+<p align="center">
+  <img src = "https://myreadme.vercel.app/api/embed/rajeshkannanoffl?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" >
+</p>
