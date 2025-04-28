@@ -1,12 +1,6 @@
-<p align="center">
-  <img src=>
-</p>
-
 <h1 align="center"> Hi 👋, I'm Rajesh Kannan M </h1>
 <h3 align="center"> A passionate developer from <img src="./assets/icons/india.png" width=23" /> Tamil Nadu, India. </h3>
 
-<div align = "right"> <img src="https://img.shields.io/github/stars/rajeshkannanoffl?label=Stars&style=social alt="stars"/> </div>
-<div align = "right"> <img src="https://img.shields.io/github/followers/rajeshkannanoffl?label=Followers&style=social alt="followers"/> </div>
 <div align = "right"> <img src="https://komarev.com/ghpvc/?username=rajeshkannanoffl&color=blue" alt="watching_count"/> </div>
 
 <br> </br>
